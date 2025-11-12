@@ -1,4 +1,4 @@
-# 5 items about me
+# 3 items about me
 
 - I love Git
 - I like Netology
