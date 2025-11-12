@@ -1,6 +1,8 @@
-# 4 items about me
+# 6 items about me
 
-- I love Git
-- I like Netology
+- I love GIT
+- I Love Netology
 - I have a cat
 - I am a teacher
+- I am cool
+- I am veri good
